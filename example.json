@@ -1,0 +1,532 @@
+[
+    {
+        "status": 200,
+        "description": "OK, Fetched...",
+        "data": {
+            "ship": {
+                "id": "1",
+                "name": "Robust 01",
+                "code": "RB1",
+                "thumbnail": "https://cdn.greenforgood.id/uploads/img/merlaut/26e8a2e9-b255-4556-b6b5-5e53bb5a3ab3.jpg",
+                "color_theme": "#990000",
+                "usage_status": "Owned",
+                "current_status": "Available",
+                "description": "",
+                "created_date": "2021-06-18 08:09:54",
+                "created_author": "2017057",
+                "modified_date": null,
+                "modified_author": null
+            },
+            "summary": {
+                "1": {
+                    "downtime": "72",
+                    "fuel_in": 0,
+                    "fuel_out": "450",
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "2": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "3": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "4": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "5": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "6": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "7": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "8": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "9": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "10": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "11": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "12": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                }
+            }
+        }
+    },
+    {
+        "status": 200,
+        "description": "OK, Fetched...",
+        "data": {
+            "ship": {
+                "id": "2",
+                "name": "Robust 02",
+                "code": "RB2",
+                "thumbnail": "https://cdn.greenforgood.id/uploads/img/merlaut/59c2cff1-8a1f-4b0e-915b-01b290d322d2.jpg",
+                "color_theme": "#FF5B00",
+                "usage_status": "Owned",
+                "current_status": "Available",
+                "description": "",
+                "created_date": "2021-06-18 08:09:54",
+                "created_author": "2017057",
+                "modified_date": null,
+                "modified_author": null
+            },
+            "summary": {
+                "1": {
+                    "downtime": "72",
+                    "fuel_in": 0,
+                    "fuel_out": "200",
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "2": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "3": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "4": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "5": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "6": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "7": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "8": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "9": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "10": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "11": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "12": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                }
+            }
+        }
+    },
+    {
+        "status": 200,
+        "description": "OK, Fetched...",
+        "data": {
+            "ship": {
+                "id": "3",
+                "name": "Belisya",
+                "code": "BEL",
+                "thumbnail": "https://cdn.greenforgood.id/uploads/img/merlaut/e787e746-728b-46ee-b200-8965bbdc1dcc.jpg",
+                "color_theme": "#D4D925",
+                "usage_status": "Rent",
+                "current_status": "Available",
+                "description": "",
+                "created_date": "2021-06-18 08:09:54",
+                "created_author": "2017057",
+                "modified_date": null,
+                "modified_author": null
+            },
+            "summary": {
+                "1": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "2": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "3": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "4": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "5": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "6": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "7": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "8": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "9": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "10": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "11": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "12": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                }
+            }
+        }
+    },
+    {
+        "status": 200,
+        "description": "OK, Fetched...",
+        "data": {
+            "ship": {
+                "id": "4",
+                "name": "Niyom 05",
+                "code": "NI5",
+                "thumbnail": "https://cdn.greenforgood.id/uploads/img/merlaut/3542514f-96de-4656-9b81-95643d1329ec.jpg",
+                "color_theme": "#0E185F",
+                "usage_status": "Rent",
+                "current_status": "Available",
+                "description": "",
+                "created_date": "2021-06-18 08:09:54",
+                "created_author": "2017057",
+                "modified_date": null,
+                "modified_author": null
+            },
+            "summary": {
+                "1": {
+                    "downtime": "72",
+                    "fuel_in": 0,
+                    "fuel_out": "485",
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "2": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "3": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "4": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "5": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "6": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "7": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "8": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "9": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "10": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "11": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "12": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                }
+            }
+        }
+    },
+    {
+        "status": 200,
+        "description": "OK, Fetched...",
+        "data": {
+            "ship": {
+                "id": "5",
+                "name": "Neema",
+                "code": "NEE",
+                "thumbnail": "https://cdn.greenforgood.id/uploads/img/merlaut/034cffef-a69f-4f10-abc1-361e14c0c5b6.jpg",
+                "color_theme": "#2FA4FF",
+                "usage_status": "Rent",
+                "current_status": "Available",
+                "description": "",
+                "created_date": "2021-06-18 08:09:54",
+                "created_author": "2017057",
+                "modified_date": null,
+                "modified_author": null
+            },
+            "summary": {
+                "1": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "2": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "3": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "4": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "5": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "6": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "7": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "8": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "9": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "10": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "11": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                },
+                "12": {
+                    "downtime": 0,
+                    "fuel_in": 0,
+                    "fuel_out": 0,
+                    "timah": 0,
+                    "tailing": 0
+                }
+            }
+        }
+    }
+]
