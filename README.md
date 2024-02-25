@@ -9,6 +9,6 @@ This system provide every detail of ship production, inventory, and maintenance.
 
 ## Easy install
 - Open terminal (NodeJS 16 Required)
-- npm install
-- npm run dev (for developing mode)
-- npm run build (for build the project)
+- $ npm install
+- $ npm run dev (for developing mode)
+- $ npm run build (for build the project)
